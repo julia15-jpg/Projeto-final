@@ -48,7 +48,7 @@ header {
     gap: 1rem;
     flex-wrap: wrap;
     padding: 0.8rem;
-    background-color: #2f2f46;
+    background-color: #3a415a;
     min-height: 50px;
 }
 
@@ -167,8 +167,8 @@ strong {
 
 /* Imagem de perfil */
 .img-profile {
-    width: 300px; /* Defina um tamanho específico */
-    height: 300px; /* Mesma altura para manter o círculo perfeito */
+    width: 400px; /* Defina um tamanho específico */
+    height: 400px; /* Mesma altura para manter o círculo perfeito */
     border-radius: 50%; /* 50% garantirá o formato circular */
     object-fit: cover; /* Garante que a imagem preencha o círculo corretamente */
 }
@@ -247,7 +247,7 @@ strong {
 
 #my-projects-list a {
     text-decoration: none;
-    color: var(--dark3);
+    color: var(--white);
 }
 
 #my-projects-list a:hover {
